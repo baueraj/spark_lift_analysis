@@ -1,4 +1,4 @@
-id,amount,name,cardissueridencode,State,request,response,messageform
+id,amount,name,issuecode,State,request,response,messageform
 a1,4000,Merc01,A01,ky,0,1,C
 a2,1107,Merc02,A02,nc,1,0,N
 a3,12550,Merc03,A03,ga,1,0,N
